@@ -1,4 +1,4 @@
-# Angular7 and Nodejs crud
+# Simple Node js App with Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.2.
 
